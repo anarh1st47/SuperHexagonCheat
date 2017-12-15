@@ -1,4 +1,4 @@
 ﻿  DllMain.cpp
-c:\projs\superhexagon-spirthack\spirthack\spirthack\dllmain.cpp(160): warning C4018: '<=': signed/unsigned mismatch
-c:\projs\superhexagon-spirthack\spirthack\spirthack\dllmain.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\projs\superhexagon-spirthack\spirthack\spirthack\dllmain.cpp(139): warning C4018: '<=': signed/unsigned mismatch
+c:\projs\superhexagon-spirthack\spirthack\spirthack\dllmain.cpp(150): warning C4018: '<': signed/unsigned mismatch
   spirthack.vcxproj -> c:\projs\superhexagon-spirthack\spirthack\Debug\spirthack.exe
